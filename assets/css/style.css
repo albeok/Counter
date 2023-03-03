@@ -1,0 +1,33 @@
+/* heading */
+h1 {
+    font-size: 50px;
+    justify-content: center;
+    text-align: center;
+}
+
+/* end heading */
+
+/* buttons */
+.buttons {
+    text-align: center;
+}
+
+#increment {
+    font-size: 20px;
+    border: 1px solid black;
+    margin: auto 1px;
+}
+
+#decrement {
+    font-size: 20px;
+    border: 1px solid black;
+    margin: auto 1px;
+}
+
+#reset {
+    font-size: 20px;
+    border: 1px solid black;
+    margin: auto 1px;
+}
+
+/* end buttons */
